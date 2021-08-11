@@ -10,44 +10,44 @@
 
 **Hi folks 👋,**
 
-Today we will be discussing about something special .i.e, "OpenSource"!
+Today we will be discussing about something special .i.e, *"OpenSource"*!
 
-So let me first of all, ask you all that "Are you not a Programmer????"
+So let me first of all, ask you all that **"Are you not a Programmer????"**
 
-Then OpenSource is not for you!!! Wait.... What??????😱😨
+Then OpenSource is *not for you!!!* Wait.... What??????😱😨
 
 ![image.png](https://hips.hearstapps.com/pop.h-cdn.co/assets/17/24/640x320/landscape-1497533116-not-dead.gif)
 
 Ahhh... I was just kidding🤣
 
-In-fact, anyone can start Opensourcing!!! 😎😎 ( This time I am not kidding 😅 )
+### In-fact, anyone can start Opensourcing!!! 😎😎 ( This time I am not kidding 😅 )
 
 ![image.png](https://i.imgur.com/nZ3HzWX.gif)
 
-**So let us now, discuss about what is OpenSource??**
+## **So let us now, discuss about what is OpenSource??**
 
-A software's original source code is made freely available and may be redistributed and modified according to the requirement of the user.
+A software's original source code is made *freely available* and may be *redistributed* and *modified* according to the requirement of the user.
 
 ### Programmers have:
-More control over that kind of software & can examine the code to make sure it's not doing anything you don't want it to do, and fix bugs
+More control over that kind of software & can examine the code to make sure it's not doing anything you don't want it to do, and fix bugs.
 
 ### What about others?
 You can make your projects, blogs, etc.. open source and let others contribute or view your work &many more advantages...
 
-### other advantage includes:
+### Other advantages includes:
 
-A large community of like minded inspiring people
-You get essential support and help
-get to collaborate with for your project, work, etc... & many more..... 🤩🤩
+- [x] A large community of like minded inspiring people.
+- [x] You get essential support and help.
+- [x] Get to collaborate with for your project, work, etc... & many more..... 🤩🤩
 
-### So what are you waiting for?? let's get started with one of the well known OpenSource Platforms :
+### So what are you waiting for?? Let's get started with one of the well known OpenSource Platforms :
 
 - **[Git](#Git)**
 - **[Github](#Github)**
 
-**You can select any of the doc  to get strted with according to your convienience**
+**You can select any of the doc  to get started, according to your convienience**
 
-## Learning Tracks (we provide)
+## Learning Tracks (we provide):
 - [What is OpenSource](https://pulkitsinghdev.hashnode.dev/intro-to-open-source)
 - [Intro to Version Control](Version_Control.md)
 - [Git VS Github ( intro to git & github )](Git_VS_Github.md)
@@ -56,21 +56,21 @@ get to collaborate with for your project, work, etc... & many more..... 🤩🤩
 - [Github Actions Basics](Github_Actions_Basics)
 - [OpenSource Guide](Guides)
 
-We hope you enjoy it and get to learn something new and awesome from it
+## We hope you enjoy it and get to learn something new and awesome from it!
 
-& make sure to provide your reviews for this docs here:-
+## & make sure to provide your reviews for this docs here:-
 [Documentation_Reviews.md](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Documentation_reviews.md)
 
-## Repo Admin / Maintainer
+## Repo Admin / Maintainer:
 
 <a href="https://github.com/PulkitSinghDev"><img src="https://user-images.githubusercontent.com/71369943/115286432-ae6f4600-a16c-11eb-8139-2a6e8533651f.png" width="100px" height="100px"></a>
 
-## Resources
+## Resources:
 
 - [LICENSE](LICENSE)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [OpenSource Guide](Guides)
 - [Learning Tracks](#learning-tracks-we-provide)
 
-# Support
+# Support:
 <a href="https://www.patreon.com/pulkitsinghdev" target="_blank" ><img src="https://user-images.githubusercontent.com/71369943/125153692-28fba080-e173-11eb-81ce-1a6d616991d7.png">

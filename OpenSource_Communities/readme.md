@@ -53,7 +53,7 @@
     <td>A 600+ community of students involved in promoting open-source under the flag of GitHub. I saw this community from the very first day. Initially, it proceed slowly but recently, it has gathered huge momentum and have involved several students in open-source events.</td>
     <td> <a href="https://education.github.com/experts">Website</a>, <a href="github.com/campus-experts">GitHub</a></td>
   </tr>  
-    <tr>
+  <tr>
   <td>DuckDuckGo</td>
     <td>A community of 500+ members around building the first-choice privacy focused search engine. Apart from their popularity, their open-source community defines itself with its contributions in building up data. Though not completely open-source, still its community makes it to the list.</td>
     <td> <a href="https://duckduckhack.com/">Website</a>, <a href="https://github.com/duckduckgo">GitHub</a></td>

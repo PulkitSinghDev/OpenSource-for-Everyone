@@ -58,4 +58,10 @@
     <td>CocoaPods is a strong community that represents its contributors well. Nice communication and its popular and satisfaction among the contributor base brings it into our list. On a personal level, I am impressed by the way they represent their contributor base by giving everyone a dynamic place.</td>
     <td><a href="https://cocoapods.org/">Website</a>, <a href="https://github.com/CocoaPods?page=1">GitHub</a></td>
     </tr>
+    <tr>
+  <td>Google Developer Student Clubs</td>
+    <td><b>Google Developer Student Clubs - JGEC</b> is university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.</td>
+    <td> <a href="https://gdsc.community.dev/">Official Website</a>, <a href="https://discord.gg/kTHMgAgmvf">Discord</a>, <a href="https://www.youtube.com/channel/UCcY06CBxUxl06w9YxwLkXYw">YouTube</a>, <a href="https://www.linkedin.com/company/gdscjgec">Linkedin</a> </td>
+  </tr>
+  <tr>
 </table>

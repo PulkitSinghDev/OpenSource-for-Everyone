@@ -38,7 +38,7 @@ You can make your projects, blogs, etc.. open source and let others contribute o
 
 A large community of like minded inspiring people
 You get essential support and help
-get to collaborate with for your project, work, etc... & many more..... 🤩🤩
+get to collaborate with for your project, work, etc... & many more..... 🤩
 
 ### So what are you waiting for?? let's get started with one of the well known OpenSource Platforms :
 

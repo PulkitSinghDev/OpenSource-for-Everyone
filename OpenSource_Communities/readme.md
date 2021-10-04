@@ -64,4 +64,8 @@
     <td> <a href="https://gdsc.community.dev/">Official Website</a>, <a href="https://discord.gg/kTHMgAgmvf">Discord</a>, <a href="https://www.youtube.com/channel/UCcY06CBxUxl06w9YxwLkXYw">YouTube</a>, <a href="https://www.linkedin.com/company/gdscjgec">Linkedin</a> </td>
   </tr>
   <tr>
+  <td>DuckDuckGo</td>
+    <td>A community of 500+ members around building the first-choice privacy focused search engine. Apart from their popularity, their open-source community defines itself with its contributions in building up data. Though not completely open-source, still its community makes it to the list.</td>
+    <td> <a href="https://duckduckhack.com/">Website</a>, <a href="https://github.com/duckduckgo">GitHub</a></td>
+  </tr>  
 </table>

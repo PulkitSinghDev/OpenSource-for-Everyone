@@ -6,20 +6,5 @@ Do let us know how was the content of this documentation, etc.. in this format :
   - **Anything Else**: "......"
 
 # Reviews:
-- **Name**: "prudhvi srinivas"
-  - **Github Username**: "@Prudhvi0717"
-  - **How was the content**: "bla bla"
-  - **Did you liked the way, the documentation has been created**: "maybe"
-  - **Anything Else**: "......"
 
-- **Name**: "Rakesh NAIDU"
-  - **Github Username**: "@deephunt3r"
-  - **How was the content**: "bla bla"
-  - **Did you liked the way, the documentation has been created**: "maybe"
-  - **Anything Else**: "......"
-
-- **Name**: "Bindu"
-  - **Github Username**: "@himabindu-run"
-  - **How was the content**: "bla bla"
-  - **Did you liked the way, the documentation has been created**: "maybe"
-  - **Anything Else**: "......"
+<!-- add your reviews below this line -->

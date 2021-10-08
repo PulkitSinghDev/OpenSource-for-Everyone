@@ -1,0 +1,57 @@
+# This is a basic workflow that is manually triggered
+
+name: Manual workflow
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      name:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Person to greet'
+        # Default value if no value is explicitly provided
+        default: 'World'
+        # Input has to be provided for the workflow to run
+        required: true
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+   steps:
+    # Runs a single command using the runners shell
+    - name: Netlify Actions
+  # You may pin to the exact commit or the version.
+  # uses: nwtgck/actions-netlify@f517512ae75beec8896aa7b027c1c72f01816200
+    - uses: nwtgck/actions-netlify@v1.2.2
+    - with:
+       # Publish directory
+    publish-dir: 
+    # Functions directory
+    functions-dir: # optional
+    # Custom deploy message for Netlify
+    deploy-message: # optional
+    # GitHub token
+    github-token: # optional
+    # Production branch
+    production-branch: # optional
+    # Indicate wether to deploy production build
+    production-deploy: # optional
+    # Enable pull request comment
+    enable-pull-request-comment: # optional
+    # Enable commit comment
+    enable-commit-comment: # optional
+    # Enable GitHub commit status
+    enable-commit-status: # optional
+    # Overwrites pull request comment
+    overwrites-pull-request-comment: # optional
+    # Path to netlify.toml
+    netlify-config-path: # optional
+    # Specifies the prefix for the deployment URL
+    alias: # optional
+    # Environment name of GitHub Deployments
+    github-deployment-environment: # optional
+    # Description of the GitHub Deployment
+    github-deployment-description: # optional
+    # Fails if no credentials provided
+    fails-without-credentials: # optional

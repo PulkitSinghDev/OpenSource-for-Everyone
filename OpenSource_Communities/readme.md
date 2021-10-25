@@ -68,4 +68,9 @@
     <td>A community of 500+ members around building the first-choice privacy focused search engine. Apart from their popularity, their open-source community defines itself with its contributions in building up data. Though not completely open-source, still its community makes it to the list.</td>
     <td> <a href="https://duckduckhack.com/">Website</a>, <a href="https://github.com/duckduckgo">GitHub</a></td>
   </tr>  
+  <tr>
+  <td>Girl Code It Community</td>
+    <td><b>Girl Code It</b>  aka GCI, is a group of people who firmly believe in this statement and are eager to build a healthy coding culture among young coders. Community provide & guides through awesome roadmaps to learn to code the right way having an hand on experience of open source.!</td>
+    <td> <a href="https://girlcodeit.com/">Official Website</a>, <a href="https://github.com/Girl-Code-It">Github</a>, <a href="https://www.linkedin.com/company/girl-code-it/">Linkedin</a> </td>
+  </tr>
 </table>
